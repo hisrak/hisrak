@@ -1,217 +1,169 @@
-<div align="center">
+# Hi 👋, I'm Hisra Waheed Khan
 
-# 👋 Hi, I'm Hisra Waheed Khan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Frontend+%26+Backend+Developer;Full-Stack+Development+Enthusiast;MERN+%7C+ASP.NET+Core+%7C+Flutter;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-### 💻 Frontend & Backend Developer | ADSE Student at APTECH | Full-Stack Development Enthusiast
+### 💻 Frontend & Backend Developer | ADSE Student at APTECH
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Frontend+%26+Backend+Developer;MERN+Stack+%7C+ASP.NET+Core+%7C+Flutter;Building+Modern+Web+%26+Mobile+Applications;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-<a href="https://github.com/hisrak">
-<img src="https://img.shields.io/badge/GitHub-HISRAK-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/hisra-khan-25355a424/">
-<img src="https://img.shields.io/badge/LinkedIn-HISRA%20KHAN-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
+**Hisra Khan** — A passionate developer from Pakistan who enjoys building responsive websites, full-stack applications and mobile applications.
 
 ---
-
-<div align="center">
 
 ## 👩‍💻 About Me
 
-</div>
-
-<p align="center">
-I'm a passionate <b>Frontend & Backend Developer</b> and an <b>ADSE student at APTECH</b>, focused on building responsive, user-friendly and practical software solutions.
-</p>
-
-<div align="center">
-
-🔭 Currently working on <b>Full-Stack Web Development</b>  
-🌱 Currently learning <b>MERN Stack, ASP.NET Core & Flutter</b>  
-💻 Experienced with <b>Frontend, Backend, Databases & Mobile Development</b>  
-🚀 Building real-world projects to strengthen my development skills  
-🤝 Open to <b>internships, collaborations and development opportunities</b>  
-📍 <b>Karachi, Pakistan</b>
-
-</div>
+- 🔭 I'm currently working on **Full-Stack Web Development**
+- 🌱 I'm currently learning and improving **MERN Stack, ASP.NET Core & Flutter**
+- 💻 I work with **Frontend, Backend, Databases and Mobile Development**
+- 🚀 I've built projects using **React, Node.js, Express.js, MongoDB, PHP, MySQL, ASP.NET and Flutter**
+- 🕵️ I've developed a **Crime Monitoring Portal using MERN Stack**
+- 🤝 I'm open to **internships, collaborations and development opportunities**
+- 💬 Ask me about **Frontend Development, MERN Stack, ASP.NET or Flutter**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/hisrak)**
+- 📚 Currently studying **ADSE at APTECH**
+- 📍 Based in **Karachi, Pakistan**
 
 ---
 
-<div align="center">
+## 🛠️ My Skills
 
-## 🧰 My Tech Stack
-
-### 🌐 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,tailwind" />
 
-<br>
+`HTML5` `CSS3` `JavaScript` `jQuery` `Bootstrap` `React` `Tailwind CSS`
 
-<code>HTML5</code>
-<code>CSS3</code>
-<code>JavaScript</code>
-<code>jQuery</code>
-<code>Bootstrap</code>
-<code>React</code>
-<code>Tailwind CSS</code>
-
-### ⚙️ Backend & Full Stack
+### Backend & Full Stack
 
 <img src="https://skillicons.dev/icons?i=php,cs,dotnet,nodejs,express" />
 
-<br>
+`PHP` `C#` `ASP.NET MVC` `ASP.NET Core` `Node.js` `Express.js`
 
-<code>PHP</code>
-<code>C#</code>
-<code>ASP.NET MVC</code>
-<code>ASP.NET Core</code>
-<code>Node.js</code>
-<code>Express.js</code>
-
-### 🗄️ Databases
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
-<br>
+`MySQL` `SQL Server` `MongoDB` `Firebase` `Entity Framework Core`
 
-<code>MySQL</code>
-<code>SQL Server</code>
-<code>MongoDB</code>
-<code>Firebase</code>
-<code>Entity Framework Core</code>
-
-### 📱 Mobile Development
+### Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
-<br>
+`Flutter` `Dart` `Firebase`
 
-<code>Flutter</code>
-<code>Dart</code>
-<code>Firebase</code>
-
-### 🔧 Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
 
-<br>
-
-<code>Git</code>
-<code>GitHub</code>
-<code>VS Code</code>
-<code>Visual Studio</code>
-<code>SSMS</code>
-<code>XAMPP</code>
-<code>Figma</code>
-
-</div>
+`Git` `GitHub` `VS Code` `Visual Studio` `SSMS` `XAMPP` `Figma`
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
 
-### 🕵️ Crime Monitoring Portal — MERN Stack
+### 🕵️ Crime Monitoring Portal
 
-A full-stack **Crime Monitoring Portal** built using the MERN stack.
+A full-stack **Crime Monitoring Portal built using the MERN Stack**, featuring authentication, protected routes, crime data management and MongoDB integration.
 
-`MongoDB` `Express.js` `React.js` `Node.js`
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
-🔐 Authentication & Protected Routes  
-🗂️ Crime Data Management  
-🧭 React Routing  
-💾 MongoDB Integration  
-⚡ REST API Architecture  
-📱 Responsive UI
+🔗 [View Project](https://github.com/hisrak)
 
-<br>
+---
 
 ### 🍃 Food Saver
 
-A responsive platform focused on reducing food waste by connecting available food with organizations and communities.
+A responsive food-saving platform designed to help reduce food waste and connect available food with people and organizations in need.
 
-`HTML` `CSS` `JavaScript` `Bootstrap`
+**Tech:** HTML • CSS • JavaScript • Bootstrap
 
-<br>
+🔗 [View Project](https://github.com/hisrak/Food-Saver)
+
+---
 
 ### 💱 CurrenSee
 
-A Flutter-based currency conversion and financial information application.
+A Flutter-based currency conversion application with exchange-rate information, charts, alerts and Firebase integration.
 
-`Flutter` `Dart` `Firebase`
+**Tech:** Flutter • Dart • Firebase
 
-<br>
+🔗 [View Project](https://github.com/hisrak/CurrenSee)
+
+---
 
 ### 👗 Stylist Store
 
-A responsive fashion e-commerce frontend with modern UI and product-focused layouts.
+A responsive fashion e-commerce frontend with modern layouts and user-friendly product sections.
 
-`HTML` `CSS` `Bootstrap` `JavaScript`
+**Tech:** HTML • CSS • Bootstrap • JavaScript
 
-<br>
+🔗 [View Project](https://github.com/hisrak/Stylist-Store)
+
+---
 
 ### 🎡 Thunder Peak Adventure Park
 
 A full-stack theme park ticket booking system with cart functionality, QR payments and an admin dashboard.
 
-`PHP` `MySQL` `JavaScript`
+**Tech:** PHP • MySQL • JavaScript
 
-<br>
+🔗 [View Project](https://github.com/hisrak/thunder-peak-adventure-park)
+
+---
 
 ### 🧪 SRS Electrical Testing System
 
-A PHP and MySQL web application for electrical product testing, result tracking and QR-code certificates.
+A PHP and MySQL web application for managing electrical product testing, tracking results and generating QR-code certificates.
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
 
-<br>
-
-### 🤖 First Tool Using AI
-
-A Python and Gemini AI project demonstrating function calling and tool-use workflow.
-
-`Python` `Gemini AI`
-
-</div>
+🔗 [View Project](https://github.com/hisrak/Testing_System)
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-## 📊 GitHub Analytics
+<p>
+<a href="https://github.com/hisrak">
+<img src="https://img.shields.io/badge/GitHub-Hisra%20Khan-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hisrak&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://www.linkedin.com/in/hisra-khan-25355a424/">
+<img src="https://img.shields.io/badge/LinkedIn-Hisra%20Khan-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisrak&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=hisrak&theme=tokyonight&hide_border=true" />
-
-</div>
+📧 **Email:** your-email@example.com  
+💻 **GitHub:** https://github.com/hisrak  
+💼 **LinkedIn:** https://www.linkedin.com/in/hisra-khan-25355a424/  
+📍 **Karachi, Pakistan**
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-## 🌱 Currently Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hisrak&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-`React.js` `MERN Stack` `Node.js` `Express.js` `MongoDB`
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=hisrak&theme=tokyonight&hide_border=true" />
+</p>
 
-`ASP.NET Core` `Entity Framework Core` `Flutter` `Firebase`
+---
 
-<br>
+## 💻 Most Used Languages
 
-### 🚀 Learn • Build • Improve • Repeat
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisrak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Thanks for visiting my GitHub profile!  
-Feel free to explore my repositories and connect with me.
+---
 
-</div>
+## 🤝 Let's Connect
+
+I'm always interested in **learning, building, collaborating and exploring new technologies**.
+
+Feel free to explore my repositories and connect with me!
+
+### Thanks for visiting my profile! 🙌
